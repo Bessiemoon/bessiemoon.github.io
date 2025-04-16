@@ -1,0 +1,23 @@
+baseURL = 'https://Bessiemoon.github.io/'  # 改成你的GitHub用户名
+languageCode = 'en-us'
+title = 'Bess Study Notes'
+theme = 'PaperMod'
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"  # dark / light / auto
+  displayFullLangName = true
+  hideSummary = false
+
+[params.math]
+enable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 允许 HTML & 数学公式
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
