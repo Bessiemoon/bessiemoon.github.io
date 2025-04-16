@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/210/Topic 2.md",
+                "file": "content/210/first-note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 2"
+              "title": "first-note"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/210/Topic 2.md",
+                "file": "content/210/first-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Topic 2 的反向链接列表"
+              "title": "first-note 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/210/Topic 2.md",
+                "file": "content/210/first-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Topic 2 的出链列表"
+              "title": "first-note 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/210/Topic 2.md",
+                "file": "content/210/first-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Topic 2 的大纲"
+              "title": "first-note 的大纲"
             }
           }
         ]
@@ -183,15 +183,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4b3bc184374c0b8",
+  "active": "d9e002f200539d39",
   "lastOpenFiles": [
+    "content/210/Topic 2.md",
     "layouts/partials/math.html",
     "math.html",
     "layouts/partials",
     "layouts/untitled folder",
     "未命名",
     "content/225 Discrete Math",
-    "content/210/first-note.md",
-    "content/210/Topic 2.md"
+    "content/210/first-note.md"
   ]
 }
